@@ -1,0 +1,12 @@
+Шифр Цезаря является одним из самых простых и известных методов шифрования.
+Назвали его в честь римского императора Гая Юлия Цезаря, который использовал
+его для секретной переписки с генералами. Суть метода заключается в том, что
+каждый символ в открытом тексте заменяется на символ, находящийся на некотором
+постоянном числе позиций левее или правее него в алфавите.
+
+The Caesar cipher is one of the simplest and most widely known encryption techniques.
+It is a type of substitution cipher in which each letter in the plaintext is replaced
+by a letter some fixed number of positions down the alphabet. The method is named after
+Julius Caesar, who used it in his private correspondence.
+
+1234567890 !@#$%^&*()_+{}|:"<>?~`-=[]\;',./ 
